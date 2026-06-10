@@ -17,7 +17,7 @@ Notebooks y scripts del **Seminario de Física Computacional** — una colecció
 
 | Notebook / script | Tema |
 |---|---|
-| [`Copy of perceptron.ipynb`](./Copy%20of%20perceptron.ipynb) | Perceptrón simple — clasificador lineal entrenado a mano. |
+| [`perceptron.ipynb`](./perceptron.ipynb) | Perceptrón simple — clasificador lineal entrenado a mano. |
 | [`Perceptron Doble.ipynb`](./Perceptron%20Doble.ipynb) | Perceptrón multicapa, backpropagation desde cero. |
 | [`cnn_mnist_fotos.py`](./cnn_mnist_fotos.py) | CNN sobre MNIST con Keras/TensorFlow. |
 | [`cifar10.py`](./cifar10.py) | CNN sobre CIFAR-10. |
